@@ -1,0 +1,97 @@
+{
+  "OrderDate": "0001-01-01T00:00:00",
+  "OrderID": "TEST-ORDER-3321",
+  "InstallationDate": "2021-04-01T00:00:00",
+  "Object": {
+    "EGID": "122643",
+    "ID": "AAAA.BBB.CCC",
+    "Floor": null,
+    "ExternalObjectNumber": "EXOBJNR",
+    "StreetAddress": "Schlierenstrasse 6",
+    "PostalCode": "8902",
+    "Locality": "Urdorf",
+    "Country": null
+  },
+  "Tenant": {
+    "FirstName": "Peter",
+    "LastName": "Pan",
+    "CompanyName": null,
+    "PhoneNumber": null,
+    "Email": null,
+    "Language": null,
+    "Remarks": [
+      "Mieter wünscht Spezialanfertigung in Grün."
+    ],
+    "StreetAddress": null,
+    "PostalCode": null,
+    "Locality": null,
+    "Country": null
+  },
+  "InvoiceTo": {
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": "XYZ Management",
+    "PhoneNumber": "+41999999999",
+    "Email": "info@xyz.local",
+    "Language": null,
+    "Remarks": [
+      "Anmerkung VW"
+    ],
+    "StreetAddress": null,
+    "PostalCode": "9999",
+    "Locality": "Traumstadt",
+    "Country": null
+  },
+  "DeliverTo": {
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": "UVW Property Management",
+    "PhoneNumber": "+41999999999",
+    "Email": "info@uvw.local",
+    "Language": null,
+    "Remarks": [
+      "Anmerkung HW"
+    ],
+    "StreetAddress": "Eine Strasse 1",
+    "PostalCode": "9999",
+    "Locality": "Traumstadt",
+    "Country": null
+  },
+  "Janitor": {
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": "UVW Property Management",
+    "PhoneNumber": "+41999999999",
+    "Email": "info@uvw.local",
+    "Language": null,
+    "Remarks": [
+      "Anmerkung HW"
+    ],
+    "StreetAddress": "Eine Strasse 1",
+    "PostalCode": "9999",
+    "Locality": "Traumstadt",
+    "Country": null
+  },
+  "PropertyManager": null,
+  "Panels": [
+    {
+      "Kind": "BK",
+      "Beschriftung": [
+        "P. Pan",
+        "Geht Flöten GmbH"
+      ]
+    },
+    {
+      "Kind": "SU",
+      "Beschriftung": [
+        "P. Pan"
+      ]
+    },
+    {
+      "Kind": "SO",
+      "Beschriftung": [
+        "Peter"
+      ]
+    }
+  ]
+}
