@@ -13,9 +13,14 @@
         public string ID;
 
         /// <summary>
-        /// Angabe Stockwerk, optional.
+        /// Angabe Stockwerk, optional, für Lieferschein.
         /// </summary>
         public string Floor;
+
+        /// <summary>
+        /// Angabe Wohnung, optional, für Lieferschein.
+        /// </summary>
+        public string Position;
 
         /// <summary>
         /// Externe Objekt-Referenz, optional.

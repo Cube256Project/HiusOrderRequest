@@ -1,20 +1,21 @@
 {
   "OrderDate": "0001-01-01T00:00:00",
-  "OrderID": "TEST-ORDER-3321",
-  "InstallationDate": "2021-04-01T00:00:00",
+  "OrderID": "TEST-ORDER-3400-10",
+  "InstallationDate": "2021-06-01T00:00:00",
   "Object": {
     "EGID": "122643",
-    "ID": "AAAA.BBB.CCC",
+    "ID": "AAAA.BBB.CCC.3400-10",
     "Floor": null,
+    "Position": "links",
     "ExternalObjectNumber": "EXOBJNR",
-    "StreetAddress": "Schlierenstrasse 6",
-    "PostalCode": "8902",
-    "Locality": "Urdorf",
+    "StreetAddress": "Sihlfeldstrasse 91",
+    "PostalCode": "8004",
+    "Locality": "Zürich",
     "Country": null
   },
   "Tenant": {
     "FirstName": "Peter",
-    "LastName": "Pan",
+    "LastName": "Bonjour",
     "CompanyName": null,
     "PhoneNumber": null,
     "Email": null,
@@ -73,6 +74,19 @@
     "Country": null
   },
   "PropertyManager": null,
+  "PropertyOwner": {
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": "A&B Invest",
+    "PhoneNumber": null,
+    "Email": null,
+    "Language": null,
+    "Remarks": null,
+    "StreetAddress": "Bernstrasse 91",
+    "PostalCode": "8952",
+    "Locality": "Schlieren",
+    "Country": null
+  },
   "Panels": [
     {
       "Kind": "BK",

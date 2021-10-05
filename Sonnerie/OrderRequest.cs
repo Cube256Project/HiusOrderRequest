@@ -3,7 +3,7 @@
 namespace Applications.HIUS.Interfaces.Sonnerie
 {
     /// <summary>
-    /// P3313-06: HIUS Sonnerie Bestellung Request.
+    /// P3313-06: HIUS Sonnerie Bestellung Request (JSON).
     /// </summary>
     public class OrderRequest
     {
@@ -50,9 +50,14 @@ namespace Applications.HIUS.Interfaces.Sonnerie
         public Contact Janitor;
 
         /// <summary>
-        /// Property manager information. 
+        /// Property manager information (Verwaltung). 
         /// </summary>
         public Contact PropertyManager;
+
+        /// <summary>
+        /// Optional property owner information (Eigentümer).
+        /// </summary>
+        public Contact PropertyOwner;
 
         /// <summary>
         /// Beschriftung Sonnerie-Elemente.
